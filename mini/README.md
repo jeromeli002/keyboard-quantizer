@@ -8,6 +8,11 @@ Keyboard Quantizerは一般的なUSBキーボードやマウスを自作キー�
 
 [遊舎工房](https://shop.yushakobo.jp/products/7984)
 
+## ビルドガイド
+
+キット版は自分でUSBコネクタをハンダ付けするキットです。
+[ビルドガイドはこちら](mini-build-guide.md)
+
 ## ファームウェアの種類
 
 デフォルトではvial用ファームウェアが書き込まれています。
